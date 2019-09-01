@@ -3,5 +3,10 @@ This repostiory is ment to hold a word list of amharic words which I intend to u
 
 The intention of this project is to make the word list a community sourced and updatable list that will one day be a usable word list for various spell dictionaries. The words mainly contained are mostly root words since various affixation rules can be used to further expand the list. Any help is appreciated.
 
-# CopyRight
+# License
 Public Domain
+
+I make no representations or warranties, express or implied.  Anyone is free to copy, modify, publish, use, compile, sell, or distribute the original contents, either in source form or as a compiled binary, for any purpose, commercial or non-commercial,
+and by any means. 
+
+Proper public domain equivalient license may be selected in the future for better warranty disclaimer.
