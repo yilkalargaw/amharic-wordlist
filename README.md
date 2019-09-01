@@ -3,6 +3,9 @@ This repostiory is ment to hold a word list of amharic words which I intend to u
 
 The intention of this project is to make the word list a community sourced and updatable list for various spell dictionaries, sematic analyzers or any other project that requires an amharic wordlist. Most of the words contained are root words since various affixation rules can be used to further expand the list. Any help is appreciated and welcome.
 
+# notice
+Since the wordlist was originally intended for use as a spellchecking librarry it does contain some words that are not strictly of amharic origin but often appear in amharic writing. In the future a tagging system may be devised for such words. e.g. (ኮምፓስ, ኮሌጅ)
+
 # License
 Public Domain
 
