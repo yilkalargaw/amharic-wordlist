@@ -1,0 +1,2 @@
+# amharic-wordlist
+amharic-wordlist
